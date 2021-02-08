@@ -1,6 +1,6 @@
 # Food Recipes Flutter App (Android & iOS)
 ## Don't forget to star the project :star: and fork it to start coding with it.
-#can watch the app demo here :[Falah hassan](https://linkedin.com/in/devfalah) 
+#can watch the app demo here :[https://www.youtube.com/watch?v=1FLXI817yX8](https://www.youtube.com/watch?v=1FLXI817yX8) 
 
 ## Features :dart:
 * [x] Free & Open Source
