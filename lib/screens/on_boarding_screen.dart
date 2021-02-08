@@ -6,7 +6,7 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 List<OnBoardingModel> sliderData = [
   OnBoardingModel('assets/images/image-1.png', 'More than 1000 Food Recipes'),
-  OnBoardingModel('assets/images/image-1.png', 'the second title'),
+  OnBoardingModel('assets/images/image-2.png', 'the second title'),
   OnBoardingModel('assets/images/image-3.png', 'Third title'),
 ];
 
