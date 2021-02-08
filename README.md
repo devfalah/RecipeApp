@@ -1,16 +1,34 @@
-# recipes
+# Food Recipes Flutter App (Android & iOS)
+## Don't forget to star the project :star: and fork it to start coding with it.
+#can watch the app demo here :[Falah hassan](https://linkedin.com/in/devfalah) 
 
-A new Flutter project.
+## Features :dart:
+* [x] Free & Open Source
+* [x] Very Easy to use
+* [x] Cross Platform App (Android - IOS)
+* [x] Amazing UI 
 
-## Getting Started
+## you can find pages like:
+* [x] on boarding pages
+* [x] discovery or home page
+* [x] categories page
+* [x] favourite page
+* [x] single recipe page with video
+* [x] about us and info page
+* [x] contact us via email section
+* [x] All recipe in one page
 
-This project is a starting point for a Flutter application.
+we use free image from unsplach can get it here: https://unsplash.com/ Free icon from Font Awsome here : https://fontawesome.com/ contact me if need any help and will find video documentation , its very easy to use and run the flutter project.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
